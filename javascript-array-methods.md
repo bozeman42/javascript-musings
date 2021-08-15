@@ -1,7 +1,7 @@
 # JavaScript array methods
 JavaScript has several array methods that can be used to process an array of data in various ways. Some of them have very clear use cases and some of them are a little more difficult to pin down, but provide incredible versatility.
 
-These methods are called as a method on arrays in your code and and accept functions as arguments. The array method will call the function you pass with each element of the array. e.g.
+These methods are called as methods on arrays in your code and and accept functions as arguments. The array method will call the function you pass with each element of the array. e.g.
 ```
 const myArray = [1, 2, 3]
 
